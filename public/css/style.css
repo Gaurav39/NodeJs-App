@@ -1,0 +1,5 @@
+body{background:#F5F5DC;width:100%}
+ul.err-area li{color:red}
+.data-table{float:left;display:inline-block}
+.data-table table{border-collapse:collapse;border:2px solid black;}
+.page-data{display:inline-block;}
